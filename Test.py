@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from sklearn.datasets import fetch_20newsgroups_vectorized
 from lightning.classification import CDClassifier
 
